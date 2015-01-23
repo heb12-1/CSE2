@@ -14,7 +14,7 @@ public class HelloWorld {
 //  ...then add a main method...     
     public static void main (String[] args){
 
-// ...and finally, print the statement with a box around it.
+// ...and then print the statement with a box around it.
 
         System.out.println("########################");
         System.out.println("########################");
