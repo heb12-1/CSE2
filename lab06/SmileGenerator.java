@@ -89,10 +89,10 @@ public class SmileGenerator{
           numSmileys++;  
         }
     
-    for (x<numSmileys; System.out.println(""); x++ ){
+    do{
         System.out.print(":)");
-    }
-    
+    } while
+    System.out.println("")
         
     }
 }
