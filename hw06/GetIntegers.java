@@ -8,10 +8,10 @@ This program will ask the user for 5 non-negative
 integers (if an invalid value is entered, it will ask
 again), and then print out the sum of the 5 integers.
 */
-mport java.util.Scanner;
+import java.util.Scanner;
 
-public class GetIntegers{
-    public static void main(String [] args){
+public class GetIntegers{ //main class
+    public static void main(String [] args){ //
         Scanner myScanner = new Scanner(System.in);
         int num1 = 0, num2 = 0, num3 = 0, num4 = 0, num5 = 0;
        
